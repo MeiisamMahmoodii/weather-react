@@ -12,7 +12,7 @@ import wind_icon from "../Assets/wind.png"
 
 export const WeatherApp = () => {
 
-    let ApiKey = "96e82012477d930807e9cd3ffb121d70"
+    let ApiKey = "key"
 
     const [temp, setTemp] = useState()
     const [location, setLocation] = useState()
